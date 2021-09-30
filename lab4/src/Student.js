@@ -5,6 +5,7 @@ class Student extends Component {
   render() { 
     return (
         //constuctor
+        //example
         constructor(props){
             this.props = {
             react.createElement("name", props, "Trent Dwyer");
